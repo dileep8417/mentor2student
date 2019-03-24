@@ -1,0 +1,79 @@
+<table border='2px'><tr bgcolor='#87AFC6' style='height: 75px; text-align: center; width: 250px'>
+            <TH CLASS="BG-INFO">DAYS</TH>
+                                <TH CLASS="BG-INFO">7.45-8.35</TH>
+                                    <TH CLASS="BG-INFO">8.45-9.35</TH>
+                                    <TH CLASS="BG-INFO">9.45-10.35</TH>
+                                    <TH CLASS="BG-INFO">10.45-11.35</TH>
+                                    <TH CLASS="BG-INFO">11.45-12.35</TH>
+                                    <TH CLASS="BG-INFO">12.45-1.35</TH>
+                                    <TH CLASS="BG-INFO">1.45-2.35</TH>
+                                    <TH CLASS="BG-INFO">2.45-3.35</TH>
+                                    <TH CLASS="BG-INFO">3.45-4.35</TH>
+                                    <TH CLASS="BG-INFO">4.45-5.35</TH>
+                                    <TH CLASS="BG-INFO">5.45-6.35</TH>
+                            </tr>
+            <TH CLASS="BG-INFO">MON</TH>
+                                <TD ID="BOX-11"></TD>
+                                    <TD ID="BOX-12"></TD>
+                                    <TD ID="BOX-13"></TD>
+                                    <TD ID="BOX-14"></TD>
+                                    <TD ID="BOX-15"></TD>
+                                    <TD ID="BOX-16"></TD>
+                                    <TD ID="BOX-17"></TD>
+                                    <TD ID="BOX-18"></TD>
+                                    <TD ID="BOX-19"></TD>
+                                    <TD ID="BOX-110"></TD>
+                                    <TD ID="BOX-111"></TD>
+                            </tr>
+            <TH CLASS="BG-INFO">TUE</TH>
+                                <TD ID="BOX-21"></TD>
+                                    <TD ID="BOX-22"></TD>
+                                    <TD ID="BOX-23"></TD>
+                                    <TD ID="BOX-24" CLASS="DEL0" DATA-CREDITS="3" DATA-CATEGORY="PROGRAM ELECTIVE" DATA-SLOT="S4">ETHICAL HACKING<BR>1152CS104<BR>MR.VINOTH KUMAR. R<BR>ROOM NO.4002<BR>SLOT-S4<SPAN CLASS="REMOVE-ICON TEXT-DANGER" STYLE="FLOAT:RIGHT;POSITION:RELATIVE;RIGHT:5PX;CURSOR:POINTER"><I CLASS="REMOVE-ICON FAS FA-TRASH"></I></SPAN></TD>
+                                    <TD ID="BOX-25"></TD>
+                                    <TD ID="BOX-26"></TD>
+                                    <TD ID="BOX-27"></TD>
+                                    <TD ID="BOX-28"></TD>
+                                    <TD ID="BOX-29"></TD>
+                                    <TD ID="BOX-210"></TD>
+                                    <TD ID="BOX-211"></TD>
+                            </tr>
+            <TH CLASS="BG-INFO">WED</TH>
+                                <TD ID="BOX-31"></TD>
+                                    <TD ID="BOX-32"></TD>
+                                    <TD ID="BOX-33"></TD>
+                                    <TD ID="BOX-34"></TD>
+                                    <TD ID="BOX-35"></TD>
+                                    <TD ID="BOX-36"></TD>
+                                    <TD ID="BOX-37"></TD>
+                                    <TD ID="BOX-38"></TD>
+                                    <TD ID="BOX-39"></TD>
+                                    <TD ID="BOX-310"></TD>
+                                    <TD ID="BOX-311"></TD>
+                            </tr>
+            <TH CLASS="BG-INFO">THUR</TH>
+                                <TD ID="BOX-41"></TD>
+                                    <TD ID="BOX-42" CLASS="DEL0" DATA-CREDITS="3" DATA-CATEGORY="PROGRAM ELECTIVE" DATA-SLOT="S4">ETHICAL HACKING<BR>1152CS104<BR>MR.VINOTH KUMAR. R<BR>ROOM NO.4002<BR>SLOT-S4<SPAN CLASS="REMOVE-ICON TEXT-DANGER" STYLE="FLOAT:RIGHT;POSITION:RELATIVE;RIGHT:5PX;CURSOR:POINTER"><I CLASS="REMOVE-ICON FAS FA-TRASH"></I></SPAN></TD>
+                                    <TD ID="BOX-43"></TD>
+                                    <TD ID="BOX-44"></TD>
+                                    <TD ID="BOX-45"></TD>
+                                    <TD ID="BOX-46"></TD>
+                                    <TD ID="BOX-47"></TD>
+                                    <TD ID="BOX-48"></TD>
+                                    <TD ID="BOX-49"></TD>
+                                    <TD ID="BOX-410"></TD>
+                                    <TD ID="BOX-411"></TD>
+                            </tr>
+            <TH CLASS="BG-INFO">FRI</TH>
+                                <TD ID="BOX-51"></TD>
+                                    <TD ID="BOX-52"></TD>
+                                    <TD ID="BOX-53"></TD>
+                                    <TD ID="BOX-54"></TD>
+                                    <TD ID="BOX-55" CLASS="DEL0" DATA-CREDITS="3" DATA-CATEGORY="PROGRAM ELECTIVE" DATA-SLOT="S4">ETHICAL HACKING<BR>1152CS104<BR>MR.VINOTH KUMAR. R<BR>ROOM NO.4002<BR>SLOT-S4<SPAN CLASS="REMOVE-ICON TEXT-DANGER" STYLE="FLOAT:RIGHT;POSITION:RELATIVE;RIGHT:5PX;CURSOR:POINTER"><I CLASS="REMOVE-ICON FAS FA-TRASH"></I></SPAN></TD>
+                                    <TD ID="BOX-56"></TD>
+                                    <TD ID="BOX-57"></TD>
+                                    <TD ID="BOX-58"></TD>
+                                    <TD ID="BOX-59"></TD>
+                                    <TD ID="BOX-510"></TD>
+                                    <TD ID="BOX-511"></TD>
+                            </tr></table>
